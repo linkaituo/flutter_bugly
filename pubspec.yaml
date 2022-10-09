@@ -15,8 +15,8 @@ dependencies:
 flutter:
   plugin:
     platforms:
-#       android:
-#         package: com.crazecoder.flutterbugly
-#         pluginClass: FlutterBuglyPlugin
+      android:
+        package: com.linkaituo.flutter_plugin_test_flutter_bugly
+        pluginClass: FlutterPluginTestPlugin
       ios:
         pluginClass: FlutterBuglyPlugin
